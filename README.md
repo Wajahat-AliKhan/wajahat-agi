@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wajahat-agi
+- 👋 Hi, I’m @wajahat
 - 👀 I’m interested in artificial general intelligence
 - 🌱 I’m currently learning machine learning and computer vision
 - 💞️ I’m looking to collaborate on projects related to deep learning
